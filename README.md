@@ -1,2 +1,2 @@
-# spring-data-waffle
-A simple example with Spring Boot, Spring Data and Waffle integration
+# spring-boot-examples
+The reposioty for multiple spring boot examples.
